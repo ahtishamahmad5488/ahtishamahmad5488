@@ -1,5 +1,5 @@
-![logo](https://github.com/ahtishamahmad5488/My-Profile/blob/main/Blue%20And%20Green%20Professional%20Technology%20LinkedIn%20Banner.png)
-------------------
+## ![logo](https://github.com/ahtishamahmad5488/ahtishamahmad5488/blob/main/Purple%20Abstract%20Graphic%20Design%20LinkedIn%20Article%20Cover%20Image.png)
+
 <h1 align="center">Hi 👋, I'm Ahtisham Ahmad</h1>
 <h3 align="center">A passionate App Developer from Pakistan</h3>
 <img align="right"alt="coding"width="400"src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif">
@@ -25,7 +25,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://reactnative.dev/docs/getting-started" target="_blank" rel="noreferrer"> <img src="https://vectorified.com/images/icon-react-native-24.png" alt="React-Native" width="40" height="40"/> </a> <a href="https://www.youtube.com/watch?v=ajdRvxDWH4w&list=PLGjplNEQ1it_oTvuLRNqXfz_v_0pq6unW" target="_blank" rel="noreferrer"> <img src="https://www.vhv.rs/dpng/d/456-4562295_library-of-javascript-icon-graphic-freeuse-png-files.png" alt="JavaScript" width="40" height="40"/> </a> <a href="https://legacy.reactjs.org/docs/getting-started.html" target="_blank" rel="noreferrer"> <img src="https://banner2.cleanpng.com/20191103/btz/transparent-js-icon-logo-icon-react-icon-1713869207369.webp" alt="React Js" width="40" height="40"/> </a>  <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-512/free-redux-3521674-2945118.png?f=webp&w=256" alt="Redux" width="40" height="40"/> </a>  <a href="https://firebase.google.com/docs/auth/web/start" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/246/288/png-transparent-firebase-hd-logo-thumbnail.png" alt="Firebase" width="40" height="40"/> </a> 
+<p align="left"> <a href="https://reactnative.dev/docs/getting-started" target="_blank" rel="noreferrer"> <img src="https://vectorified.com/images/icon-react-native-24.png" alt="React-Native" width="40" height="40"/> </a> <a href="https://www.youtube.com/watch?v=ajdRvxDWH4w&list=PLGjplNEQ1it_oTvuLRNqXfz_v_0pq6unW" target="_blank" rel="noreferrer"> <img src="https://www.vhv.rs/dpng/d/456-4562295_library-of-javascript-icon-graphic-freeuse-png-files.png" alt="JavaScript" width="40" height="40"/> </a> <a href="https://legacy.reactjs.org/docs/getting-started.html" target="_blank" rel="noreferrer"> <img src="https://banner2.cleanpng.com/20191103/btz/transparent-js-icon-logo-icon-react-icon-1713869207369.webp" alt="React Js" width="40" height="40"/> </a>  <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-512/free-redux-3521674-2945118.png?f=webp&w=256" alt="Redux" width="40" height="40"/> </a>  <a href="https://firebase.google.com/docs/auth/web/start" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/246/288/png-transparent-firebase-hd-logo-thumbnail.png" alt="Firebase" width="40" height="40"/> </a>
 
 <div>
   <h3 align="left">Support:</h3>
@@ -37,5 +37,3 @@
  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahtishamahmad5488&show_icons=true&locale=en" alt="ahtishamahmad5488" /></p>
  
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahtishamahmad5488&" alt="ahtishamahmad5488" /></p>
-
-

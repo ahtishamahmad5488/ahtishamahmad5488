@@ -1,4 +1,5 @@
-## ![logo](https://github.com/ahtishamahmad5488/ahtishamahmad5488/blob/main/Purple%20Abstract%20Graphic%20Design%20LinkedIn%20Article%20Cover%20Image.png)
+## ![logo](https://github.com/ahtishamahmad5488/ahtishamahmad5488/blob/main/Purple%20Minimalist%20App%20Developer%20New%20LinkedIn%20Banner%20(1).png)
+
 
 <h1 align="center">Hi 👋, I'm Ahtisham Ahmad</h1>
 <h3 align="center">A passionate App Developer from Pakistan</h3>

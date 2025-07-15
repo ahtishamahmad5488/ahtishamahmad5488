@@ -27,7 +27,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/ahtisham-ahmad-bb3a45271/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahtisham-ahmad-bb3a45271/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/ahtisham.ahmad.3532?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ahtisham.ahmad.3532?mibextid=zbwkwl" height="30" width="40" /></a>
-<a href="https://www.instagram.com/itx_ahtisham__awan?igsh=mtjqywuwz3i5awxrdq==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/itx_ahtisham__awan?igsh=mtjqywuwz3i5awxrdq==" height="30" width="40" /></a>
+<a href="https://www.instagram.com/mr.shamo__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/itx_ahtisham__awan?igsh=mtjqywuwz3i5awxrdq==" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/ahtisham_35/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/ahtisham_35/" height="30" width="40" /></a>
 </p>
 

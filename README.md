@@ -23,6 +23,7 @@
 <a href="https://www.linkedin.com/in/ahtisham-ahmad-bb3a45271/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahtishamahmad5488" height="30" width="40" /></a>
 <a href="https://www.facebook.com/ahtisham.ahmad.3532?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rizwan-shoukat3324" height="30" width="40" /></a>
 <a href="https://www.instagram.com/itx_ahtisham__awan?igsh=MTJqYWUwZ3I5aWxrdQ==" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/62-instagram-512.png" alt="ahtishamahmad5488" height="40" width="40" /></a>
+  <a href="https://leetcode.com/u/ahtisham_35/" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngaaa.com%2Fdetail%2F4868118&psig=AOvVaw2dSB42LEuWwRvMh1dwSYYP&ust=1752667300144000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIjlmdvovo4DFQAAAAAdAAAAABAE" alt="ahtishamahmad5488" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

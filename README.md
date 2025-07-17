@@ -27,7 +27,7 @@
 
 ## 🛠️ Languages and Tools
 
-![Android](https://img.shields.io/badge/-Android-black?style=flat-square&logo=android)
+![Android](https://img.shields.io/badge/-Android-black?style=for-the-badge&logo=android)
 ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)

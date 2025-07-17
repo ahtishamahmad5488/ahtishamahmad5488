@@ -25,6 +25,7 @@
 <a href="https://leetcode.com/u/ahtisham_35/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/ahtisham_35/" height="30" width="40" /></a>
 </p>
 
+
 ## 🛠️ Languages and Tools
 
 ![Android](https://img.shields.io/badge/-Android-black?style=flat-square&logo=android)
@@ -54,13 +55,18 @@
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=tensorflow)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 
+
 ## 📊 GitHub Stats
 
 ![Ahtsiahm's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahtishamahmad5488&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ahtishamahmad5488&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahtishamahmad5488&show_icons=true&locale=en" alt="ahtishamahmad5488" /></p>
- 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahtishamahmad5488&" alt="ahtishamahmad5488" /></p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahtishamahmad5488" alt="ahtishamahmad5488" /></a> </p>
+## 🔥 Streak Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahtishamahmad5488&theme=radical)
+
+
+## 🏆 Achievements
+
+![trophy](https://github-profile-trophy.vercel.app/?username=ahtishamahmad5488&theme=radical)

@@ -10,6 +10,7 @@
 ## 🚀 About Me
 
 - 🌱 I’m currently working **Mobile Application Developer**
+- <img align="right"alt="coding"width="400"src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif">
 - 🌱 I’m currently learning **Backend Development**
 - 👨‍💻 All of my projects are available at [https://github.com/ahtishamahmad5488](https://github.com/ahtishamahmad5488)
 - 📝 Also found me on Linkedin [https://www.linkedin.com/in/ahtisham-ahmad-bb3a45271/](https://www.linkedin.com/in/ahtisham-ahmad-bb3a45271/)
@@ -20,15 +21,8 @@
 
 ## 📞 Connect with me
 
-![Linkedin](https://www.linkedin.com/in/ahtisham-ahmad-bb3a45271/)
-![CSS](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![Material-UI](https://img.shields.io/badge/-Material--UI-black?style=flat-square&logo=material-ui)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-black?style=flat-square&logo=tailwind-css)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-
 <p align="left">
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahtisham-ahmad-bb3a45271/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ahtisham-ahmad-bb3a45271/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahtisham-ahmad-bb3a45271/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/ahtisham.ahmad.3532?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ahtisham.ahmad.3532?mibextid=zbwkwl" height="30" width="40" /></a>
 <a href="https://www.instagram.com/mr.shamo__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/itx_ahtisham__awan?igsh=mtjqywuwz3i5awxrdq==" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/ahtisham_35/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/ahtisham_35/" height="30" width="40" /></a>

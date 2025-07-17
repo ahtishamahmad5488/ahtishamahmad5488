@@ -56,16 +56,8 @@
 
 ## 📊 GitHub Stats
 
-![Ahtsiahm's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=ahtishamahmad5488&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ameer-Hamza289&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<div>
-  <h3 align="left">Support:</h3>
-  <div style="display: flex; align-items: center;">
-    <img src="&show_icons=true&locale=en&layout=compact" alt="GitHub Readme Stats" />
-  </div>
-</div>
+![Ahtsiahm's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahtishamahmad5488&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ahtishamahmad5488&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahtishamahmad5488&show_icons=true&locale=en" alt="ahtishamahmad5488" /></p>
  

@@ -7,7 +7,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahtishamahmad5488&label=Profile%20views&color=blueviolet&style=flat" alt="ahtishamahmad5488" /> </p>
 <img align="right"alt="coding"width="400"src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif">
 
-<h2 align="left">🚀 About Me</h2>
 
 - 🌱 I’m currently working **Mobile Application Developer**
 - 🌱 I’m currently learning **Backend Development**

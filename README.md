@@ -58,8 +58,8 @@
 
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahtishamahmad5488&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahtishamahmad5488)
 
 ## 🏆 Achievements
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ahtishamahmad5488&theme=radical)
+![trophy](https://github-profile-trophy.vercel.app/?username=ahtishamahmad5488)

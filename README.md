@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Ahtisham Ahmad</h1>
-<h3 align="center">A passionate App Developer from Pakistan</h3>
+<h3 align="center">A passionate Full Stack App Developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahtishamahmad5488&label=Profile%20views&color=blueviolet&style=flat" alt="ahtishamahmad5488" /> </p>
 <img align="right"alt="coding"width="400"src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif">
@@ -60,13 +60,13 @@
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=ahtishamahmad5488&theme=radical)
 
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 ## 🏆 Achievements
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=ahtishamahmad5488&theme=radical)
 
-
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 

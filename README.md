@@ -65,7 +65,8 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=ahtishamahmad5488&theme=radical)
 
 
-
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 
